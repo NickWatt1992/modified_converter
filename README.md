@@ -1,10 +1,10 @@
 Part 1 (Provided converter) 
 (version 1.0) 
+
 The following conversions were provided:
 1.	Convert Centimetres to Inches
 
-Part 2 (Modified converter) 
-
+Part 2 (Modified converter)
 (version 1.1)
 
 The following conversion will be added:
