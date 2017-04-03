@@ -7,7 +7,7 @@ The following conversions were provided:
 Part 2 (Modified converter)
 (version 1.1)
 
-The following conversion will be added:
+The following conversions will be added:
 
 2.	Convert Metres to Feet
 
