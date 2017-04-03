@@ -7,9 +7,14 @@ The following conversions were provided:
 Part 2 (Modified converter)
 (version 1.1)
 
-The following conversions will be added:
+The following conversion will be added:
 
 2.	Convert Metres to Feet
+
+Part 2 (Cont.) (Modified converter)
+(version 1.2)
+
+The following conversions will be added:
 
 3.	Convert Celsius to Fahrenheit
 
