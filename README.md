@@ -4,12 +4,14 @@ Part 1 (Provided converter)
 The following conversions were provided:
 1.	Convert Centimetres to Inches
 
+
 Part 2 (Modified converter)
 (version 1.1)
 
 The following conversion will be added:
 
 2.	Convert Metres to Feet
+
 
 Part 2 (Cont.) (Modified converter)
 (version 1.2)
